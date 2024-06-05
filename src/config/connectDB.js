@@ -1,10 +1,10 @@
 import mysql from 'mysql2/promise';
 
 const pool = mysql.createPool({
-    host: 'bqk3zhkpvokvlwwv1e0e-mysql.services.clever-cloud.com',
-    user: 'umsjoxxluophxesp',
-    password: 'iPOU3GR2RHkT1vPhPWHx',
-    database: 'bqk3zhkpvokvlwwv1e0e'
+    host: 'bdl5wnnfehbxtn4e23x6-mysql.services.clever-cloud.com',
+    user: 'ubdkarzqzcoraaxg',
+    password: '9iUyFDj13Qga1FFfraGR',
+    database: 'bdl5wnnfehbxtn4e23x6'
 });
 
 export default pool;
